@@ -1,3 +1,5 @@
+package com.genspark.ecommerce.payload;
+
 import lombok.Data;
 
 @Data
